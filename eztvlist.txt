@@ -1,5 +1,5 @@
-戲劇,http://61.222.191.241/live/ch02/playlist.m3u8
-東森綜合,http://61.222.191.241/live/ch03/playlist.m3u8
+889,http://61.222.191.241/live/ch02/playlist.m3u8
+东森,http://61.222.191.241/live/ch03/playlist.m3u8
 東森幼幼,http://61.222.191.241/live/ch04/playlist.m3u8
 Fox Sport2,http://61.222.191.241/live/ch05/playlist.m3u8
 緯來戲劇,http://61.216.79.193/live/ch06/playlist.m3u8
@@ -13,7 +13,7 @@ NHK WORLD,http://61.222.191.25/live/ch13/playlist.m3u8
 鳳凰衛視,http://61.216.91.103/live/ch20/playlist.m3u
 CCTV-4,http://61.216.131.1/live/ch21/playlist.m3u8
 CCTV-13,http://61.216.131.1/live/ch22/playlist.m3u8
-1080P ,http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+1080P,http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
 亚洲联合 ,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 香港电影 ,http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
 韩国中央台 ,http://122.202.129.136:1935/live/ch5/playlist.m3u8
